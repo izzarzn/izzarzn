@@ -24,4 +24,4 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzarzn&layout=compact" />
 </a>
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=izzarzn.izzarz)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=izzarzn.izzarzn)
