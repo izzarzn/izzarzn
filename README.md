@@ -21,7 +21,7 @@
 
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=izzarzn&show_icons=true)
 <a href="https://wakatime.com/@izzarzn" target="_blank"><br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzarz&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzarzn&layout=compact" />
 </a>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=izzarzn.izzarzn)
