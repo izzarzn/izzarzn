@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Computer Science </br>
+🎓 I’m an Open-Source enthusiast & i am currently pursuing B.E in Computer Science </br>
 👨‍💻 I enjoy learning new things. </br>
 
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=izzarzn&show_icons=true)
