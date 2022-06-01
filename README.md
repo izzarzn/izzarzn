@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arjun!](https://izzarzn.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="29">, I'm [Arjun!](https://izzarzn.github.io) 
 
 <h3 align="left">🤝 Connect with me</h3> 
 <a href="https://www.linkedin.com/in/izzarzn/">
