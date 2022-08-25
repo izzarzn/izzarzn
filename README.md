@@ -18,7 +18,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & I am currently pursuing B.E in Computer Science </br>
-👨‍💻 I enjoy Coding and learning new things. </br>
+👨‍💻 I enjoy Coding and learning new things </br>
 
 ## Tools I Use💻
 
