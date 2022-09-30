@@ -1,5 +1,5 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="29">, I'm [Arjun!](https://github.com/izzarzn28)
-Other Account : [@izzarzn28](https://github.com/izzarzn28)<img align='right'  src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
+(https://github.com/izzarzn28)<img align='right'  src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 
 <h3 align="left">🤝 Connect with me</h3> 
 <a href="https://www.linkedin.com/in/izzarzn/">
