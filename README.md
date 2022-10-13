@@ -29,9 +29,10 @@
 ![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=izzarzn&show_icons=true)
 <a href="https://wakatime.com/@izzarzn" target="_blank"> <br> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzarzn&layout=compact" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izzarzn&theme=react)](https://git.io/streak-stats) 
+
 </a> 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=izzarzn&theme=react)](https://git.io/streak-stats) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
