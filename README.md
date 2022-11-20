@@ -39,10 +39,3 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-----
-<!-- My Latest Twweets:START -->
-<!-- My Latest Twweets:END -->
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=izzarzn)](https://github.com/gazf/github-readme-twitter)
-----
-
-
