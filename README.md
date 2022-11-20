@@ -42,7 +42,7 @@
 ----
 <!-- My Latest Twweets:START -->
 <!-- My Latest Twweets:END -->
-
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=izzarzn)](https://github.com/gazf/github-readme-twitter)
 ----
 
 
